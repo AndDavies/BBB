@@ -11,7 +11,7 @@ export default function Home() {
       <div className="max-w-4xl mx-auto">
         <div className="mb-8 text-center">
           <h2 className="text-3xl font-bold tracking-tight mb-2">Today's Focus</h2>
-          <p className="text-muted-foreground">What if you only had to take care of 3 things in a day?</p>
+          <p className="text-muted-foreground">What if you only had to take care of 3 things in a day?????????</p>
         </div>
         
         <Suspense fallback={
